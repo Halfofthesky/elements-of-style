@@ -1,0 +1,9 @@
+{
+  "name": "elements-of-style",
+  "version": "0.1.0",
+  "description": "English style editor based on Strunk's Elements of Style. Reviews text for grammar, punctuation, clarity, and conciseness using 18 classic rules of usage and composition.",
+  "author": {
+    "name": "Stanislav"
+  },
+  "keywords": ["writing", "style", "grammar", "editing", "proofreading", "english"]
+}
